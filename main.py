@@ -2,7 +2,7 @@ import pickle
 import telebot
 from telebot import types
 
-token = '5768589310:AAFHUSZzpCoTa6ceKqaTwXsCfLKGLIR5vl0'
+token = 
 bot = telebot.TeleBot(token)
 
 class Proekt:
